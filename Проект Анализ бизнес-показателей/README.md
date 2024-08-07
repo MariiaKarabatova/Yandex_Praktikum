@@ -33,6 +33,6 @@
 
 
 ## Используемые библиотеки:
-  *pandas, matplotlib, numpy, scipy, datetime*
+  *pandas, matplotlib, numpy, seaborn, datetime*
 
  
