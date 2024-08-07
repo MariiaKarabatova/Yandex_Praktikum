@@ -36,7 +36,8 @@
 - book_id — идентификатор книги;
 - username — имя пользователя, написавшего обзор;
 - text — текст обзора.
-- 
+  ![image.png](attachment:image.png)
+  
 ## Используемые библиотеки:
   *pandas, sqlalchemy*
 
